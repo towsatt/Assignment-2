@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="it.unipd.mtss.AppTest" time="0.021" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="it.unipd.mtss.IntToRomanTest" time="0.024" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IT"/>
     <property name="sun.boot.library.path" value="C:\Users\leona\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.11.v20240426-1830\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\leona\AppData\Local\Temp\surefire1964261135221833119\surefirebooter3801383778579802365.jar C:\Users\leona\AppData\Local\Temp\surefire1964261135221833119 2024-05-20T18-52-33_694-jvmRun1 surefire16182830244213925385tmp surefire_013575342375594426394tmp"/>
+    <property name="sun.java.command" value="C:\Users\leona\AppData\Local\Temp\surefire11228538500047906191\surefirebooter8453581250341885370.jar C:\Users\leona\AppData\Local\Temp\surefire11228538500047906191 2024-05-20T19-14-58_713-jvmRun1 surefire5780400516652554966tmp surefire_02871058661577117913tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\leona\Desktop\uni\progetti\mtss\Assignment_2\roman-number\target\test-classes;C:\Users\leona\Desktop\uni\progetti\mtss\Assignment_2\roman-number\target\classes;C:\Users\leona\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\leona\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\leona\AppData\Local\Temp\surefire1964261135221833119\surefirebooter3801383778579802365.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\leona\AppData\Local\Temp\surefire11228538500047906191\surefirebooter8453581250341885370.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.11+9"/>
@@ -58,5 +58,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="it.unipd.mtss.AppTest" time="0"/>
+  <testcase name="shouldAnswerWithTrue" classname="it.unipd.mtss.IntToRomanTest" time="0"/>
 </testsuite>
